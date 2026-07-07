@@ -1,5 +1,7 @@
 [中文](./README.md) | **English**
 
+![FUCK YOU KINDLE](./FUCK_YOU_KINDLE.png)
+
 # Kindle-Dowloader-And-Cropper
 
 Two small tools that work together to turn e-books locked inside proprietary reader apps (with no export option) into clean page images:
