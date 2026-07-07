@@ -1,6 +1,6 @@
 **中文** | [English](./README_EN.md)
 
-**FUCK YOU KINDLE!!!!!!!!!!!**![[kindle-middle-finger.png]]
+**FUCK YOU KINDLE!!!!!!!!!!!**![[FUCK_YOU_KINDLE.png]]
 
 # Kindle-Dowloader-And-Cropper — Kindle电子书自动截图 + 批量裁剪
 
