@@ -1,6 +1,6 @@
 **中文** | [English](./README_EN.md)
 
-# Ebook-Capture-Crop — 电子书自动截图 + 批量裁剪
+# Kindle-Dowloader-And-Cropper — Kindle电子书自动截图 + 批量裁剪
 
 两个配合使用的小工具,把锁在专有阅读器里导不出来的电子书弄成干净的图片:
 
