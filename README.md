@@ -2,7 +2,7 @@
 
 ![FUCK YOU KINDLE](./FUCK_YOU_KINDLE.png)
 
-# Kindle-Dowloader-And-Cropper — Kindle电子书自动截图 + 批量裁剪 + 中间把粘在一起的两页剪开
+# Kindle-Dowloader-And-Cropper — Kindle电子书自动截图 + 批量裁剪 + 把粘在一起的两页剪开
 
 两个配合使用的小工具,把锁在专有阅读器里导不出来的电子书弄成干净的图片:
 
